@@ -1,0 +1,80 @@
+13:42:09.859 对象名 'MOXLOG' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 221
+13:42:09.888 INSERT INTO MOXLOG (LOG001,LOG002,LOG003,LOG004,LOG005,LOG006) VALUES ('送审','',GETDATE(),'delete from DETDDB','','') 
+13:42:09.933 对象名 'MOXLOG' 无效。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 236
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 95
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText, String parameters) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 24
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 854
+13:42:09.976 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 850
+13:42:09.977 insert into DETDDB (corpid,corpsecret,developmentID) values ('ding20abbfc7e2552bf535c2f4657eb6378f','OaDafnnCUN1gSdHAVNugtCF2LwDDCodPpjVBhMOKhMs4vgxHS-zMLx9s4sxeVDBo','4315271435865539')
+13:43:09.350 对象名 'MOXLOG' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 221
+13:43:09.378 INSERT INTO MOXLOG (LOG001,LOG002,LOG003,LOG004,LOG005,LOG006) VALUES ('送审','',GETDATE(),'delete from DETDDB','','') 
+13:43:09.422 对象名 'MOXLOG' 无效。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 236
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 95
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText, String parameters) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 24
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 854
+13:43:09.470 对象名 'MOXLOG' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 221
+13:43:09.471 INSERT INTO MOXLOG (LOG001,LOG002,LOG003,LOG004,LOG005,LOG006) VALUES ('送审','',GETDATE(),'insert into DETDDB (corpid,corpsecret,developmentID) values (''ding20abbfc7e2552bf535c2f4657eb6378f'',''OaDafnnCUN1gSdHAVNugtCF2LwDDCodPpjVBhMOKhMs4vgxHS-zMLx9s4sxeVDBo'',''4315271435865539'')','','') 
+13:43:09.513 对象名 'MOXLOG' 无效。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 236
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 95
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText, String parameters) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 24
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 854
+13:44:40.787 对象名 'MOXLOG' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 221
+13:44:40.814 INSERT INTO MOXLOG (LOG001,LOG002,LOG003,LOG004,LOG005,LOG006) VALUES ('送审','',GETDATE(),'delete from DETDDB','','') 
+13:44:40.858 对象名 'MOXLOG' 无效。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 236
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 95
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText, String parameters) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 24
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 854
+13:44:40.903 对象名 'MOXLOG' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 221
+13:44:40.904 INSERT INTO MOXLOG (LOG001,LOG002,LOG003,LOG004,LOG005,LOG006) VALUES ('送审','',GETDATE(),'insert into DETDDB (corpid,corpsecret,developmentID) values (''ding20abbfc7e2552bf535c2f4657eb6378f'',''OaDafnnCUN1gSdHAVNugtCF2LwDDCodPpjVBhMOKhMs4vgxHS-zMLx9s4sxeVDBo'',''4315271435865539'')','','') 
+13:44:40.946 对象名 'MOXLOG' 无效。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 236
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 95
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText, String parameters) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 24
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 854

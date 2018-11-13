@@ -1,0 +1,5 @@
+D:\Project data\DeTai\ReviewOrder\ReviewOrderEntity\bin\Debug\ReviewOrderEntity.dll
+D:\Project data\DeTai\ReviewOrder\ReviewOrderEntity\bin\Debug\ReviewOrderEntity.pdb
+D:\Project data\DeTai\ReviewOrder\ReviewOrderEntity\obj\Debug\ReviewOrderEntity.dll
+D:\Project data\DeTai\ReviewOrder\ReviewOrderEntity\obj\Debug\ReviewOrderEntity.pdb
+D:\Project data\DeTai\ReviewOrder\ReviewOrderEntity\obj\Debug\ReviewOrderEntity.csprojResolveAssemblyReference.cache

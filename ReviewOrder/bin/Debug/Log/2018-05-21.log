@@ -1,0 +1,555 @@
+18:50:19.255 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.257 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''1''',GETDATE()),null) 
+18:50:19.275 关键字 'null' 附近有语法错误。
+18:50:19.294 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.295 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''60978394''',GETDATE()),null) 
+18:50:19.311 关键字 'null' 附近有语法错误。
+18:50:19.329 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.330 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''60994422''',GETDATE()),null) 
+18:50:19.346 关键字 'null' 附近有语法错误。
+18:50:19.364 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.366 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''65983604''',GETDATE()),null) 
+18:50:19.384 关键字 'null' 附近有语法错误。
+18:50:19.391 部门信息保存失败
+18:50:19.591 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.592 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1452510056757184'' AND DBB003=''60994422''',GETDATE()),null) 
+18:50:19.609 关键字 'null' 附近有语法错误。
+18:50:19.627 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.629 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''4315271435865539'' AND DBB003=''60994422''',GETDATE()),null) 
+18:50:19.644 关键字 'null' 附近有语法错误。
+18:50:19.663 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.664 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1045254638698215'' AND DBB003=''60994422''',GETDATE()),null) 
+18:50:19.681 关键字 'null' 附近有语法错误。
+18:50:19.699 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.700 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''084541646726932876'' AND DBB003=''60994422''',GETDATE()),null) 
+18:50:19.716 关键字 'null' 附近有语法错误。
+18:50:19.721 @DBB001 1045254638698215
+18:50:19.722 @DBB002 唐婷
+18:50:19.723 @DBB003 60994422
+18:50:19.747 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.748 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:50:19.764 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:50:19.766 @DBB001 4315271435865539
+18:50:19.767 @DBB002 赵致茂
+18:50:19.768 @DBB003 60994422
+18:50:19.786 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.787 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','update DETDBB set DBB002=@DBB002  where DBB001=@DBB001 AND DBB003=@DBB003',GETDATE()),null) 
+18:50:19.803 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:50:19.804 @DBB001 084541646726932876
+18:50:19.806 @DBB002 樊朵林
+18:50:19.807 @DBB003 60994422
+18:50:19.824 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.825 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:50:19.843 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:50:19.844 @DBB001 1452510056757184
+18:50:19.845 @DBB002 小柯
+18:50:19.846 @DBB003 60994422
+18:50:19.863 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.864 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','update DETDBB set DBB002=@DBB002  where DBB001=@DBB001 AND DBB003=@DBB003',GETDATE()),null) 
+18:50:19.879 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:50:19.931 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.933 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''4315271435865539'' AND DBB003=''60978394''',GETDATE()),null) 
+18:50:19.948 关键字 'null' 附近有语法错误。
+18:50:19.951 @DBB001 4315271435865539
+18:50:19.952 @DBB002 赵致茂
+18:50:19.953 @DBB003 60978394
+18:50:19.970 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:19.971 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','update DETDBB set DBB002=@DBB002  where DBB001=@DBB001 AND DBB003=@DBB003',GETDATE()),null) 
+18:50:19.987 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:50:20.065 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:20.066 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1354190212999779'' AND DBB003=''1''',GETDATE()),null) 
+18:50:20.082 关键字 'null' 附近有语法错误。
+18:50:20.085 @DBB001 1354190212999779
+18:50:20.087 @DBB002 程税
+18:50:20.088 @DBB003 1
+18:50:20.110 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:50:20.112 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','update DETDBB set DBB002=@DBB002  where DBB001=@DBB001 AND DBB003=@DBB003',GETDATE()),null) 
+18:50:20.127 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:51:56.440 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:51:56.441 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','delete from DETDDB',GETDATE()),null) 
+18:51:56.500 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 853
+18:51:56.561 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:51:56.563 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDDB (corpid,corpsecret,developmentID) values (''ding20abbfc7e2552bf535c2f4657eb6378f'',''OaDafnnCUN1gSdHAVNugtCF2LwDDCodPpjVBhMOKhMs4vgxHS-zMLx9s4sxeVDBo'',''4315271435865539'')',GETDATE()),null) 
+18:51:56.612 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(ArrayList SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 853
+18:52:19.146 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.148 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''1''',GETDATE()),null) 
+18:52:19.168 关键字 'null' 附近有语法错误。
+18:52:19.187 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.188 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''60978394''',GETDATE()),null) 
+18:52:19.204 关键字 'null' 附近有语法错误。
+18:52:19.222 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.223 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''60994422''',GETDATE()),null) 
+18:52:19.240 关键字 'null' 附近有语法错误。
+18:52:19.258 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.259 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBA WHERE DBA001=''65983604''',GETDATE()),null) 
+18:52:19.278 关键字 'null' 附近有语法错误。
+18:52:19.283 @DBA001 60994422
+18:52:19.285 @DBA002 业务部
+18:52:19.286 @DBA003 1
+18:52:19.309 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.311 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBA(DBA001,DBA002,DBA003) values (@DBA001,@DBA002,@DBA003)',GETDATE()),null) 
+18:52:19.347 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.349 @DBA001 1
+18:52:19.350 @DBA002 杭州瑞阁微科技有限公司
+18:52:19.351 @DBA003 
+18:52:19.369 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.370 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBA(DBA001,DBA002,DBA003) values (@DBA001,@DBA002,@DBA003)',GETDATE()),null) 
+18:52:19.385 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.387 @DBA001 65983604
+18:52:19.388 @DBA002 运维部
+18:52:19.389 @DBA003 1
+18:52:19.410 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.411 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBA(DBA001,DBA002,DBA003) values (@DBA001,@DBA002,@DBA003)',GETDATE()),null) 
+18:52:19.426 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.427 @DBA001 60978394
+18:52:19.428 @DBA002 开发部
+18:52:19.430 @DBA003 1
+18:52:19.448 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.449 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBA(DBA001,DBA002,DBA003) values (@DBA001,@DBA002,@DBA003)',GETDATE()),null) 
+18:52:19.465 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.640 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.641 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1452510056757184'' AND DBB003=''60994422''',GETDATE()),null) 
+18:52:19.657 关键字 'null' 附近有语法错误。
+18:52:19.676 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.677 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''4315271435865539'' AND DBB003=''60994422''',GETDATE()),null) 
+18:52:19.692 关键字 'null' 附近有语法错误。
+18:52:19.711 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.712 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1045254638698215'' AND DBB003=''60994422''',GETDATE()),null) 
+18:52:19.728 关键字 'null' 附近有语法错误。
+18:52:19.746 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.747 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''084541646726932876'' AND DBB003=''60994422''',GETDATE()),null) 
+18:52:19.763 关键字 'null' 附近有语法错误。
+18:52:19.765 @DBB001 4315271435865539
+18:52:19.767 @DBB002 赵致茂
+18:52:19.767 @DBB003 60994422
+18:52:19.786 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.787 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:19.803 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.804 @DBB001 084541646726932876
+18:52:19.805 @DBB002 樊朵林
+18:52:19.806 @DBB003 60994422
+18:52:19.826 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.827 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:19.848 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.850 @DBB001 1452510056757184
+18:52:19.851 @DBB002 小柯
+18:52:19.853 @DBB003 60994422
+18:52:19.873 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.874 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:19.889 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.891 @DBB001 1045254638698215
+18:52:19.892 @DBB002 唐婷
+18:52:19.892 @DBB003 60994422
+18:52:19.918 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.919 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:19.934 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:19.993 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:19.995 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1354190212999779'' AND DBB003=''1''',GETDATE()),null) 
+18:52:20.011 关键字 'null' 附近有语法错误。
+18:52:20.014 @DBB001 1354190212999779
+18:52:20.015 @DBB002 程税
+18:52:20.016 @DBB003 1
+18:52:20.034 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.036 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:20.052 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:20.110 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.111 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''0704574003849616'' AND DBB003=''65983604''',GETDATE()),null) 
+18:52:20.129 关键字 'null' 附近有语法错误。
+18:52:20.147 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.149 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''1704371208697992'' AND DBB003=''65983604''',GETDATE()),null) 
+18:52:20.165 关键字 'null' 附近有语法错误。
+18:52:20.167 @DBB001 1704371208697992
+18:52:20.168 @DBB002 吴琼
+18:52:20.170 @DBB003 65983604
+18:52:20.188 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.190 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:20.204 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:20.206 @DBB001 0704574003849616
+18:52:20.207 @DBB002 李瑞
+18:52:20.208 @DBB003 65983604
+18:52:20.225 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.226 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:20.242 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
+18:52:20.298 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.299 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','SELECT COUNT(1) FROM DETDBB WHERE DBB001=''4315271435865539'' AND DBB003=''60978394''',GETDATE()),null) 
+18:52:20.315 关键字 'null' 附近有语法错误。
+18:52:20.318 @DBB001 4315271435865539
+18:52:20.319 @DBB002 赵致茂
+18:52:20.320 @DBB003 60978394
+18:52:20.337 关键字 'null' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 224
+18:52:20.339 INSERT INTO DETLOG (LOG001,LOG002,LOG003,LOG004,LOG005) VALUES ('','','insert into DETDBB(DBB001,DBB002,DBB003) values (@DBB001,@DBB002,@DBB003)',GETDATE()),null) 
+18:52:20.359 关键字 'null' 附近有语法错误。
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(SqlConnection conn, String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 239
+   在 StudentMgr.SqlHelper.ExecuteNonQuery(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 98
+   在 CarpenterBll.LogHelperToSql.SaveLog(String cmdText) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\LogHelperToSql.cs:行号 25
+   在 StudentMgr.SqlHelper.ExecuteSqlTran(Hashtable SQLStringList) 位置 D:\Project data\DeTai\ReviewOrder\ReviewOrderBll\SqlHelper.cs:行号 905
